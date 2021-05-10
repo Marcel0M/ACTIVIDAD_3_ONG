@@ -9,3 +9,7 @@ body{
     height: 36px;
     position: relative;
 }
+
+.h5, h5 {
+    font-size: 4.25rem;
+}
