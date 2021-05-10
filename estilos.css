@@ -11,5 +11,14 @@ body{
 }
 
 .h5, h5 {
-    font-size: 4.25rem;
+    font-size: 5rem;
+    font-weight: bolder;
+    font-style: oblique;
 }
+
+h1{
+    text-align: center;
+}
+
+
+
