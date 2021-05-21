@@ -18,7 +18,20 @@ body{
 
 h1{
     text-align: center;
+    font-size: 3rem;
+    font-weight: bolder;
+    font-style: oblique;
 }
 
+.card-title {
+    font-size: 3rem;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.card {
+    margin-top: 2cm;
+    
+}
 
 
